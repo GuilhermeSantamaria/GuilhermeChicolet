@@ -1,8 +1,10 @@
-## Bem-vindo(a) ao meu perfil 🚀
 
-<h1>Olá eu sou o Guilherme</h1>
+# <strong><em>Olá eu sou o Guilherme!</em></strong>
 
-<p>Técnico Mecatrônico, Educador Social e estudante de Desenvolvimento Web Full-Stack (Mechatronic Technician, Social Educator and Full-Stack Web Development student)</p>
+## <strong><em> Bem-vindo(a) ao meu perfil 🚀 </em></strong>
+
+
+<p><strong>Técnico Mecatrônico, Educador Social e estudante de Desenvolvimento Web Full-Stack (Mechatronic Technician, Social Educator and Full-Stack Web Development student) 😉 </strong></p>
 
  <div>
    <a href="https://github.com/GuilhermeChicolet>
@@ -11,14 +13,23 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
  <br>
+
+ <strong> Confira o repositório do meu primeiro projeto trabalhando com linguagens de Desenvolvimento Web: </strong>
  
-  ### Linkedin:
+ <a href="https://github.com/GuilhermeChicolet/pokedex-snes-colors-project"><strong> Acesse aqui </strong></a>
+
+ <strong> Utilize do github pages para a visualização do projeto: </strong>
+
+ <a href="https://github.com/GuilhermeChicolet/pokedex-snes-colors-project"><strong> Clique aqui </strong></a>
+
+  
+  ### Acesse o meu Linkedin:
  
 <div> 
  
