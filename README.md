@@ -20,13 +20,13 @@
  
  <br>
 
- <strong> Confira o repositório do meu primeiro projeto trabalhando com linguagens de Desenvolvimento Web: </strong>
+ <strong> Confira o repositório do meu primeiro projeto trabalhando com HTML5, CSS3 e JavaScript: </strong>
  
  <a href="https://github.com/GuilhermeChicolet/pokedex-snes-colors-project"><strong> Acesse aqui </strong></a>
 
- <strong> Utilize do github pages para a visualização do projeto: </strong>
+ <strong> Utilize do GitHub Pages para ver o resultado deste projeto: </strong>
 
- <a href="https://github.com/GuilhermeChicolet/pokedex-snes-colors-project"><strong> Clique aqui </strong></a>
+ <a href="https://guilhermechicolet.github.io/pokedex-snes-colors-project/"><strong> Clique aqui </strong></a>
 
   
   ### Acesse o meu Linkedin:
