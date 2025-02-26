@@ -4,7 +4,7 @@
 ## <strong><em> Bem-vindo(a) ao meu perfil 🚀 </em></strong>
 
 
-<p><strong>Técnico Mecatrônico, Educador Social e estudante de Desenvolvimento Web Full-Stack (Mechatronic Technician, Social Educator and Full-Stack Web Development student) 😉 </strong></p>
+<p><strong> Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade São Francisco de Assis, estou me aprofundando em desenvolvimento Web Full-Stack, servidores e banco de dados!  😉 </strong></p>
 
  <div>
    <a href="https://github.com/GuilhermeChicolet>
@@ -16,7 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+</div> 
  
  <br>
 
